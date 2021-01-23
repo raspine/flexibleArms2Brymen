@@ -2,6 +2,7 @@
 I always find myself with too little desk space for doing electronics work so
 I built this iron bench. Its easy to move around and can just be lifted away
 when not needed.
+![BuildProcess](images/ironBench_small.png)
 
 This project contains instructions on how to build + 3d printable accessories.
 
